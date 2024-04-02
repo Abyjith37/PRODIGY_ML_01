@@ -1,0 +1,14 @@
+Predicting House Prices with Linear Regression Welcome to the house price prediction project repository! This project was successfully done during my
+internship at Prodigy, where I used a linear regression model to estimate property prices based on square footage, bedrooms, and bathrooms.
+Project Overview The purpose of this project was to create a predictive model that could reliably anticipate house prices based on essential characteristics
+such as square footage, number of bedrooms, and number of bathrooms. This assignment requires data pretreatment, model development, and evaluation to assure 
+correctness and reliability.
+Key Tasks and Achievements Data collection and cleaning: Collected housing data from credible sources and cleaned it to remove missing numbers and outliers.
+Exploratory Data Analysis (EDA) was performed to better understand the relationships between variables, uncover patterns, and obtain insights into the dataset.
+Feature Engineering: Improved model performance by creating essential characteristics such as total area (combining the square footage of all rooms).
+Model Development: Built a linear regression model with Python and machine learning frameworks like Scikit-Learn.
+Model Evaluation: To analyze the model's predictive ability, we used measures like Mean Squared Error (MSE) and R-squared.
+
+
+
+
